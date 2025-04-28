@@ -1,2 +1,2 @@
 # survey-app
-SurveyApp
+Survey web app with admin portal
